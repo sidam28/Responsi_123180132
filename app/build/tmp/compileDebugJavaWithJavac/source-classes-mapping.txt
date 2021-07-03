@@ -1,0 +1,40 @@
+com/example/responsi/view/viewmodel/HarianViewModel.java
+ com.example.responsi.view.viewmodel.HarianViewModel
+ com.example.responsi.view.viewmodel.HarianViewModel$1
+com/example/responsi/service/HarianRepository.java
+ com.example.responsi.service.HarianRepository
+com/example/responsi/service/RsRepository.java
+ com.example.responsi.service.RsRepository
+com/example/responsi/model/kasus/Data.java
+ com.example.responsi.model.kasus.Data
+com/example/responsi/view/fragment/RsFragment.java
+ com.example.responsi.view.fragment.RsFragment
+ com.example.responsi.view.fragment.RsFragment$1
+com/example/responsi/adapter/HarianAdapter.java
+ com.example.responsi.adapter.HarianAdapter
+ com.example.responsi.adapter.HarianAdapter$ViewHolder
+com/example/responsi/service/ApiMain.java
+ com.example.responsi.service.ApiMain
+com/example/responsi/adapter/RsAdapter.java
+ com.example.responsi.adapter.RsAdapter
+ com.example.responsi.adapter.RsAdapter$ViewHolder
+com/example/responsi/model/rs/RsItem.java
+ com.example.responsi.model.rs.RsItem
+com/example/responsi/model/kasus/Metadata.java
+ com.example.responsi.model.kasus.Metadata
+com/example/responsi/model/rs/RsResponse.java
+ com.example.responsi.model.rs.RsResponse
+com/example/responsi/view/fragment/HarianFragment.java
+ com.example.responsi.view.fragment.HarianFragment
+ com.example.responsi.view.fragment.HarianFragment$1
+com/example/responsi/BuildConfig.java
+ com.example.responsi.BuildConfig
+com/example/responsi/view/viewmodel/RsViewModel.java
+ com.example.responsi.view.viewmodel.RsViewModel
+ com.example.responsi.view.viewmodel.RsViewModel$1
+com/example/responsi/view/activity/MainActivity.java
+ com.example.responsi.view.activity.MainActivity
+com/example/responsi/model/kasus/HarianResponse.java
+ com.example.responsi.model.kasus.HarianResponse
+com/example/responsi/model/kasus/ContentItem.java
+ com.example.responsi.model.kasus.ContentItem
